@@ -53,3 +53,6 @@ Contributions to the project are welcome! If you have any ideas, feature request
 ## License
 
 This project is licensed under the MIT License
+
+# Live Streamlit App
+https://faheemkhan0817-multiple-diseases-prediction-app-bli11c.streamlit.app/
